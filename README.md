@@ -90,7 +90,8 @@ void loop() {
 ```
 ## Output:
 
-<img width="1438" height="1600" alt="WhatsApp Image 2026-09-24 at 8 18 16 AM" src="https://github.com/user-attachments/assets/5f0d4680-8007-4aad-855e-8d3f19e7ce2e" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-25 at 10 42 03 AM" src="https://github.com/user-attachments/assets/e351ce03-9999-4b29-922f-b368e40b870f" />
+
 
 ## Result
 The simulation successfully measured the distance between the ultrasonic sensor  HC-SR04 and the object. The real-time distance values were accurately displayed on the serial monitor in centimeters.
